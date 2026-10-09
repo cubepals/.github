@@ -16,4 +16,4 @@
   <a href="https://github.com/cubepals/cubepals">Source</a>
 </p>
 
-<p align="center"><sub>Code under AGPL-3.0. The Cubepals name and mark are not. · <a href="mailto:hello@cubepals.com">hello@cubepals.com</a></sub></p>
+<p align="center"><sub>The app under AGPL-3.0, its <a href="https://github.com/cubepals/blocklyd">server daemon</a> under FSL-1.1-ALv2. The Cubepals name and mark are reserved. · <a href="mailto:hello@cubepals.com">hello@cubepals.com</a></sub></p>
